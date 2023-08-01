@@ -17,11 +17,10 @@ Sou graduando de Engenharia de Mecatrônica no Instituto Federal de Educação, 
 
 ## Social medias
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/isaac.jefferson.s/)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='instagram' height='30'>](www.linkedin.com/in/isaac-jefferson-s)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](www.linkedin.com/in/isaac-jefferson-s)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacJefferson7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-IsaacJefferson7/IsaacJefferson7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Games
+[<img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' height='30'>](https://steamcommunity.com/profiles/76561198145813118/)
+<img src='https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white' height='30'>
