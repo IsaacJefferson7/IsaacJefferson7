@@ -17,7 +17,7 @@ Sou graduando de Engenharia de Mecatrônica no Instituto Federal de Educação, 
 
 ## Social medias
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/isaac.jefferson.s/)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](www.linkedin.com/in/isaac-jefferson-s)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/isaac-jefferson-s)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacJefferson7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
