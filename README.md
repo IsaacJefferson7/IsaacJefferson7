@@ -5,7 +5,7 @@ I'm a Mechatronics Engineering student at the Instituto Federal de Educação, C
 ## About me
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning Engineering.
-- 💞️ I'm looking to collaborate on knowledge sharing.
+- ✅ I'm looking to collaborate on knowledge sharing.
 - 📫 How to reach me: Social medias 👇
 
 ## Education
