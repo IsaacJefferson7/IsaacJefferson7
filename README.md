@@ -1,6 +1,6 @@
 # Hi, my name is Isaac Saboia
 
-Sou graduando de Engenharia de Mecatrônica no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+I'm a Mechatronics Engineering student at the Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
 ## About me
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
