@@ -33,3 +33,5 @@ DATA SCIENCE ACADEMY
 ## 🎮 Games
 [<img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' height='30'>](https://steamcommunity.com/profiles/76561198145813118/)
 <img src='https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white' height='30'>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
