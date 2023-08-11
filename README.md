@@ -3,8 +3,8 @@
 I'm a Mechatronics Engineering student at the Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
 ## 😎 About me
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently learning Machine Learning Engineering.
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and Robotic.
+- 🌱 I’m currently learning Data Science.
 - ✅ I'm looking to collaborate on knowledge sharing.
 - 📫 How to reach me: Social medias 👇
 
