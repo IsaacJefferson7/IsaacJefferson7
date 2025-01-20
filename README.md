@@ -37,7 +37,7 @@ DATA SCIENCE ACADEMY
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/isaac-jefferson-s/)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/IsaacJefferson7)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/user/jyuzfb5w7lb4sxemf6w8osi1c?si=f653910d6fff42a1)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jyuzfb5w7lb4sxemf6w8osi1c?si=f653910d6fff42a1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacJefferson7&show_icons=true&theme=dracula)
 
