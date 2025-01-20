@@ -39,7 +39,7 @@ DATA SCIENCE ACADEMY
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jyuzfb5w7lb4sxemf6w8osi1c?si=f653910d6fff42a1)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacJefferson7&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacJefferson7&show_icons=true&theme=cobalt)
 
 ## 🎮 Games
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
