@@ -1,6 +1,6 @@
 # Hi, my name is Isaac Saboia
 
-I'm a Mechatronics Engineering student at the Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+I'm a Mechatronics Engineering student at the Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) and Data Scientist student at the Centro Universitário Estácio do Ceará.
 
 ## 😎 About me
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and Robotic.
