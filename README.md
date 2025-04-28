@@ -4,11 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 
 <h3 align="left">
-  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      🛠️ **Learning:** Data Science, Machine Learning and Cloud Computing <br>
-  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      🌍 **Living in:** Brazil :city_sunset: <br>
-  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      🛠️ Learning: Data Science, Machine Learning and Cloud Computing <br>
+      🌍 Living in: Brazil :city_sunset: <br>
       🧠 Focused on: Building and learning new skills :space_invader: <br> <br>
 </h3>
 
