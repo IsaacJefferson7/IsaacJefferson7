@@ -1,72 +1,23 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner do perfil" />
-</p>
+![banner)](assets/banner.png)<br>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacJefferson7&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 
-<div align="center">
+<h3 align="left">
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Pronouns: she | her :nail_care: <br> 
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Software engineering student :mortar_board: <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Interning at Sankhya :notebook: <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Living in Rondonia, Brazil :city_sunset: <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
+      Learning new things :space_invader: <br> <br>
+</h3>
 
-# Welcome to my GitHub 🚀
-#### Transformando dados em insights que moldam o futuro. 📈💻
+<img src="https://nirzak-streak-stats.vercel.app/?user=IsaacJefferson7&theme=midnight-purple&hide_border=true" width="56%" height="50%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJefferson7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
 
-</div>
 
----
-
-<div align="center">
-
-🛠️ **Learning:** Data Science, Machine Learning and Cloud Computing  
-🌍 **Living in:** Brazil  
-🧠 **Focused on:** Building and learning new skills 
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacJefferson7&show_icons=true&theme=tokyonight&hide=prs" width="300px" />
-
-</td>
-<td>
-
-### 🏆 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJefferson7&layout=compact&theme=tokyonight" width="300px" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🔥 Contribution Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacJefferson7&theme=tokyonight" width="600px" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's connect!
-
-<a href="https://linkedin.com/in/isaac-jefferson-s">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:isaacjefferson07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<img src="https://github.com/IsaacJefferson7/IsaacJefferson7/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
