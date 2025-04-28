@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 
 <h3 align="left">
-      🛠️ Learning: Data Science, Machine Learning and Cloud Computing <br>
+      🛠️ Learning: Data Science, Machine Learning and Cloud <br>
       🌍 Living in: Brazil :city_sunset: <br>
       🧠 Focused on: Building and learning new skills :space_invader: <br> <br>
 </h3>
