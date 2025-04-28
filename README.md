@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://your-banner-link-here.com/banner.png" alt="banner" style="width:100%;"/>
-
-</div>
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner do perfil" />
+</p>
 
 ---
 
