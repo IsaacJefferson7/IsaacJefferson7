@@ -9,7 +9,7 @@
 <div align="center">
 
 # Welcome to my GitHub 🚀
-#### Codificando o futuro, sendo a inovação! 💻✨
+#### Transformando dados em insights que moldam o futuro. 📈💻
 
 </div>
 
