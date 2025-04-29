@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=ffffff&width=300&lines=Welcome+to+my+Github!+" align="center">
 
 <h3 align="left">
-      🛠️ Learning: Data Science, Machine Learning and Cloud <br>
+      🛠️ Data Science, Machine Learning <br>
       🌍 Living in: Brazil :city_sunset: <br>
-      🧠 Focused on: Building and learning new skills :space_invader: <br> <br>
+      🧠 Building and learning new skills :space_invader: <br> <br>
 </h3>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=IsaacJefferson7&theme=tokyonight&hide_border=true" width="56%" height="50%" align="right">
