@@ -5,7 +5,7 @@
 
 <h3 align="left">
       🛠️ Data Science, Machine Learning <br>
-      🌍 Living in: Brazil <br>
+      🌍 Living in Brazil <br>
       🧠 Building and learning new skills <br> <br>
 </h3>
 
