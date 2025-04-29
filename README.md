@@ -5,8 +5,8 @@
 
 <h3 align="left">
       🛠️ Data Science, Machine Learning <br>
-      🌍 Living in: Brazil :city_sunset: <br>
-      🧠 Building and learning new skills :space_invader: <br> <br>
+      🌍 Living in: Brazil <br>
+      🧠 Building and learning new skills <br> <br>
 </h3>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=IsaacJefferson7&theme=tokyonight&hide_border=true" width="56%" height="50%" align="right">
